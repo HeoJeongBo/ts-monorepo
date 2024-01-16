@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@mono/types": ["libs/types/src/index.ts"],
       "@mono/utils": ["libs/utils/src/index.ts"]
     }
   },
