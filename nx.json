@@ -63,5 +63,8 @@
         "linter": "eslint"
       }
     }
+  },
+  "cli": {
+    "packageManager": "yarn"
   }
 }
